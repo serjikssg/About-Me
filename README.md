@@ -10,3 +10,6 @@ My Skills and Certifications
 
 ## Django
 - LinkedIn Lerning: Django Essential Training [Verified Certificate](https://www.linkedin.com/learning/certificates/2ffdf6d6d12d6f589aeb474347a80425db30a4344e5e05f1f911103fe513c65b)
+
+## Database
+- LinkedIn Lerning: Programming Foundations: Databases [Verified Certificate](https://www.linkedin.com/learning/certificates/f669e03a589bb602dfd4932b5367f663286d4ae7199ccf938fcf93dee4d9d4e5)
