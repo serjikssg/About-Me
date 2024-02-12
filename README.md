@@ -1,4 +1,4 @@
 # About-Me
 My Skiles and Certifications
 ## JavaScript
-- Meta: Programming with JavaScript [Verified Certifi](https://coursera.org/share/e51a1003efbd0b7182aca531e7ebf6f0)
+- Meta: Programming with JavaScript [Verified Certifi](https://coursera.org/share/50fcad9aa49a380e6fc5ad3e38b5f50b)
