@@ -1,7 +1,7 @@
 # About-Me
 My Skills and Certifications
 ## JavaScript
-- Meta: Programming with JavaScript [Verified Certificate](https://coursera.org/share/50fcad9aa49a380e6fc5ad3e38b5f50b){:target="_blank"}
+- Meta: Programming with JavaScript [Verified Certificate](https://coursera.org/share/50fcad9aa49a380e6fc5ad3e38b5f50b){target="_blank"}
 - LinkedIn Learning: JavaScript Language [Verified Certificate](https://www.linkedin.com/learning/certificates/4485583412b5575333b89a4aeadfb27339710d3cb21d26b196c00c529c6f6ef2){:target="_blank"}
 
 ## Python
