@@ -1,4 +1,3 @@
-<base target="_blank">
 # About-Me
 My Skills and Certifications
 ## JavaScript
